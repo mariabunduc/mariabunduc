@@ -13,7 +13,6 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-#
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mariabunduc&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
